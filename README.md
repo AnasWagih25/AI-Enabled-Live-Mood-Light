@@ -26,11 +26,16 @@ Run: `python3 ~/live_mood_light.py`. Console shows detected text and mood; NeoPi
 ## Video Demo
 A demo video of **AI-Enabled-Live-Mood-Light** is included in this repository. You can view it with the following Markdown:  
 
-![Live Mood Light Demo](./demo_video.gif)  
+## Demo
 
-> Place your demo video as `demo_video.gif` or convert your video to a GIF for inline viewing.  
-> For full-length video, include it as `demo_video.mp4` and link:  
-> `[Watch Full Demo](./demo_video.mp4)`  
+A demo of **AI-Enabled-Live-Mood-Light** is included in this repository.
+
+### Inline Preview
+![Demo](./demo_video.gif)
+
+### Full-Length Video
+[Watch Full Demo](./demo_video.mp4)
+
 
 ## Troubleshooting
 - No LEDs: Check GPIO18, PWM, and power connections.  
